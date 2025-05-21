@@ -154,7 +154,6 @@ button{
 }
 
 .success-mess-box{
-  width: max-content;
   padding: 1rem;
   background-color: var(--Grey-900-darker);
   border-radius: .5rem;
