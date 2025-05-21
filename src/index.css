@@ -167,6 +167,12 @@ button{
   gap: .5rem;
 }
 
+.success-mess-box {
+  @media (max-width: 768px) {
+    width: 90%;
+  }
+}
+
 @media(min-width:700px){
   main{
     width: 100vw;
